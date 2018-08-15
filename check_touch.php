@@ -78,8 +78,8 @@ else{
         die("");
     }
     else{
+        //test
         echo "COLUMN touchscreen_exist SUCCESSFULLY ADDED".PHP_EOL;
     }
 }
-die("");
 ?>
